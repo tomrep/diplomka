@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\e78e3ca24d7d6b701db473eb32ab1461d195413b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_81aba54ec184a0b3c6d5a40b48cdf7e14287f331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\c48fbae8df642640e9674fb658e761399e171483\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_28744422d87b9e05a0f953c60bfbbfb636981e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\ed646d8dfb73f84d740aa718fcf9b8719f830d2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_eeb57de4b2c9bec4bad1bf41365380ff09e4902a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\e9332c12c50b53876c7bbacec3bff78fe7fe3259\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_a138b798f72bcaa7b12215cc53a9736ca6ce9686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\370b0f4c69c9d1d93552b50cf4e9ed24d06bc9e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_0a83f5036e4aed45498f7d3b6bb9db2a5371b5dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_eb58f37f4b56e5ed7e16c228f08548ab7f275184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\4186fb6ff05eb9de8fea88278f5ba4ed865a6010\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_2220f0902d259de31ef2be4d3a5733939c67c136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\e62f966227c2faba89932f3b4fb5a99ba4c4c104\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_b43bf5f4e487727fd65bcb69e90190d5129f724c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_b4f033a9f5bb2c0902b448ff8a66d0fc2fea435a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\e5d762ab328fede3b1ce0cdd5e36fa16787edde2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_855426db5c064c5537bb03d01569c285fbcb3c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\0ef8032e2a200f7487548fd39be71a45708b094c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_de4debd839f186c778510592e81c8e1e26c39c75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomas\.android\build-cache\0d8ed8fc0f4a5ae5b1763be25b2e4153557d31b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tomas\Desktop\AndroidStudioProjects\Diplomovka\app\build\intermediates\pre-dexed\debug\classes_fe1ace96f4da7a4972e6c213bca9e7df9b08e2c6.jar" />
+    </item>
+
+</items>
