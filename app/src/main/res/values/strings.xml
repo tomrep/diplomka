@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diplomovka</string>
+    <string name="text1">Zadaj svoje heslo.</string>
+    <string name="checktext">Zadaj heslo 1/10.</string>
+</resources>
